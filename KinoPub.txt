@@ -10,6 +10,7 @@
 +.cnd2exp.site
 +.cdn32.online
 +.cdn3t.store
++.cdn2cdn.com
 +.cdn-service.space
 +.staticdn.site
 +.pushbr.com
