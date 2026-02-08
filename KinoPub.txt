@@ -1,7 +1,8 @@
-cnd2exp.store
-cnd2exp.site
-cdn32.online
-cdn3t.store
-cdn-service.space
-staticdn.site
-smarttvcdn.online
++.cnd2exp.store
++.cnd2exp.site
++.cdn32.online
++.cdn3t.store
++.cdn-service.space
++.staticdn.site
++.pushbr.com
++.smarttvcdn.online
