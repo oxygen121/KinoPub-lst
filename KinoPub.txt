@@ -11,6 +11,7 @@
 +.cdn32.online
 +.cdn3t.store
 +.cdn2cdn.com
++.cdn2site.com
 +.digital-cdn.net
 +.cdn-service.space
 +.staticdn.site
