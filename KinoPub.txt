@@ -1,3 +1,10 @@
++.mos-gorsud.site
++.kinopub.online
++.kpdl.link
++.kpap.link
++.kpdl.cc
++.kino.pub
++.kpapp.link
 +.cnd2exp.store
 +.cnd2exp.site
 +.cdn32.online
@@ -6,4 +13,5 @@
 +.staticdn.site
 +.pushbr.com
 +.smarttvcdn.online
++.zerkalo.xyz
 i0.wp.com
