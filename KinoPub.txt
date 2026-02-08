@@ -21,3 +21,5 @@
 +.zerkalo.xyz
 +.kpstv.net
 i0.wp.com
+api.srvkp.com
+api.ios-kp.store
