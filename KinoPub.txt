@@ -10,6 +10,7 @@
 +.cnd2exp.site
 +.cdn32.online
 +.cdn3t.store
++.cdn4t.xyz
 +.cdn2cdn.com
 +.cdn2site.com
 +.digital-cdn.net
