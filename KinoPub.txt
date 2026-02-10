@@ -1,4 +1,5 @@
 +.mos-gorsud.site
++.mos-gorsud.co
 +.service-kp.com
 +.kinopub.online
 +.kpdl.link
