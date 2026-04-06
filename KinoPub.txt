@@ -24,3 +24,4 @@
 i0.wp.com
 +.srvkp.com
 +.ios-kp.store
+api.teleos.club
