@@ -26,3 +26,5 @@ i0.wp.com
 +.ios-kp.store
 api.teleos.club
 +.alador.space
+www.gravatar.com
+m.teleos.club
