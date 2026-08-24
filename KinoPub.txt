@@ -28,4 +28,4 @@ api.teleos.club
 +.alador.space
 www.gravatar.com
 m.teleos.club
-kino.watch
++.kino.watch
